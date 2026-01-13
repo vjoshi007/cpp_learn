@@ -3,7 +3,7 @@ int main()
 {
     int x;
     int y;
-    x = 10;
+    x = 15;
     y = x ;
     std::cout << y << '\n';
     std::cout << "Hello, world!";
